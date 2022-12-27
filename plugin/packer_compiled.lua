@@ -124,6 +124,11 @@ _G.packer_plugins = {
     path = "/home/daffa/.local/share/nvim/site/pack/packer/start/friendly-snippets",
     url = "https://github.com/rafamadriz/friendly-snippets"
   },
+  gruvbox = {
+    loaded = true,
+    path = "/home/daffa/.local/share/nvim/site/pack/packer/start/gruvbox",
+    url = "https://github.com/morhetz/gruvbox"
+  },
   ["lsp-zero.nvim"] = {
     loaded = true,
     path = "/home/daffa/.local/share/nvim/site/pack/packer/start/lsp-zero.nvim",
@@ -143,6 +148,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/daffa/.local/share/nvim/site/pack/packer/start/neo-runner.nvim",
     url = "https://github.com/BenGH28/neo-runner.nvim"
+  },
+  ["nerdfont.vim"] = {
+    loaded = true,
+    path = "/home/daffa/.local/share/nvim/site/pack/packer/start/nerdfont.vim",
+    url = "https://github.com/lambdalisue/nerdfont.vim"
   },
   ["nvim-cmp"] = {
     loaded = true,
@@ -193,6 +203,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/daffa/.local/share/nvim/site/pack/packer/start/undotree",
     url = "https://github.com/mbbill/undotree"
+  },
+  ["vim-devicons"] = {
+    loaded = true,
+    path = "/home/daffa/.local/share/nvim/site/pack/packer/start/vim-devicons",
+    url = "https://github.com/ryanoasis/vim-devicons"
   },
   ["vim-surround"] = {
     loaded = true,

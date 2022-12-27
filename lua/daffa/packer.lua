@@ -7,6 +7,9 @@ return require('packer').startup(function(use)
     use 'mattn/emmet-vim'
     use 'tpope/vim-surround'
     use 'BenGH28/neo-runner.nvim'
+    use 'lambdalisue/nerdfont.vim'
+    use 'ryanoasis/vim-devicons'
+    use 'morhetz/gruvbox'
     
     use {
         'nvim-telescope/telescope.nvim', tag = '0.1.0',
